@@ -5,4 +5,4 @@ She hates CSS.
 But Javascript is ok.
 Python is much better.
 Christine is awesome! :)
-Follow twitch.tv/kiddlazy for some EPICALLY INSANE fortnite content
+According to all known laws of aviation, there is no way a bee should be able to fly.
