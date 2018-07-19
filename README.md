@@ -1,5 +1,5 @@
 # turbo-barnacle
-Once there was a student who attended CSSI.
+RAIN DROP DROP TOP 
 In the first week she learned Javascript, HTML, and CSS.
 She hates CSS.
 But Javascript is ok.
