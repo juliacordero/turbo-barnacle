@@ -5,3 +5,4 @@ She hates CSS.
 But Javascript is ok.
 Python is much better.
 Christine is awesome! :)
+Follow twitch.tv/kiddlazy for some EPIC fortnite content
